@@ -26,8 +26,7 @@ html {
        -ms-flex-pack: center;
      justify-content: center;
 }
- 
-}
+
 
 .container {
   margin: 5% auto;
@@ -138,12 +137,12 @@ h4 {
   src: url("../fonts/apercu_regular_pro.otf");
 }
 
-#white-font {
+/*#white-font {
   color: white!important;
   margin-left: 20%;
   margin-right: 20%;
 
-}
+}*/
 
 h3 {
 	text-align: center;
@@ -273,8 +272,6 @@ input {
 }
 
 
-
-
 .col-lg-8 {
     margin-bottom: 60px;
     position: static !important;
@@ -283,22 +280,22 @@ input {
 /*#side-text {
   text-align: left;
 }*/
-#quote {
+
+/*#quote {
   text-align: center;
-  /*font-size: 3.5rem;*/
   color: white;
   padding-top: 10%;
   padding-bottom: 10%;
   margin-left: 10%;
   margin-right: 10%;
-}
+}*/
 
 .email-form {
   margin: 0 auto;
   text-align: center;
 }
 
-#social-icon {
+/*#social-icon {
 	width: 40px;
 	margin: 0 auto;
 }
@@ -310,10 +307,10 @@ input {
 
 #social-right{
  /* float: right;*/
-  padding-top: 20px;
+  /*padding-top: 20px;
   padding-bottom: 20px;
   margin-bottom: 0px;
-}
+}*/
 
 /*.image1, .image2, .image3 {
 background-attachment: fixed;
@@ -370,18 +367,6 @@ background-attachment: fixed;
  /* background-repeat: no-repeat;*/
 }
 
-
-/*a {
-  color: white;
-}*/
-
-.col-lg-8 {
-    margin-top: 0px;
-    top: 60px;
-}
-
-
-
 .image4 {
   background-image:url('../images/image4.png');
   height: 50%;
@@ -397,6 +382,17 @@ background-attachment: fixed;
 /*  background-repeat: no-repeat;*/
   /*padding-top: 60px;*/
 }
+
+
+/*a {
+  color: white;
+}*/
+
+.col-lg-8 {
+    margin-top: 0px;
+    top: 60px;
+}
+
 
 .section-light {
   background-color: white;
@@ -458,18 +454,18 @@ img {
 }
 
 
-#sydney-image {
+/*#sydney-image {
 	width: 50%;
 	margin: 20%;
-}
+}*/
 
-.row {
+/*.row {
   text-align: center;
   margin: 0 auto;
-}
+}*/
 
 
-.title-sub {
+/*.title-sub {
 	text-align: center;
 	font-family: sans-serif;
 	text-align: center;
@@ -479,7 +475,7 @@ img {
 	font-size: 35px;
 	line-height: 45px;
 	color: rgb(230,70,38);
-}
+}*/
 
 /* slick slider */
 
