@@ -57,7 +57,7 @@ html {
 
 /* fonts */
 @font-face {
-  font-family: 'apercu-regular';
+  font-family: 'apercu-regular'; 
   src: url("../fonts/apercu_regular_pro.otf");
   src: url("../fonts/apercu_regular_pro.otf") format("embedded-opentype"), url("../fonts/apercu_regular_pro.woff2") format("woff2"), url("../fonts/apercu_regular_pro.woff") format("woff"), url("../fonts/apercu_regular_pro.otf") format("truetype"), url("../fonts/apercu_regular_pro.svg#apercu_regular_pro") format("svg");
   font-weight: normal;
@@ -83,7 +83,7 @@ html {
 p {
 	color: black;
 	font-size: 20px;
-  font-family: 'apercu-regular';
+  font-family: 'apercu-regular', helvetica;
   src: url("../fonts/apercu_regular_pro.otf");
 }
 
@@ -342,7 +342,7 @@ background-attachment: fixed;
     url('../images/image1.jpg');
     height: 100%;
     /*background-repeat: no-repeat;*/
-  background-size: auto 100%;
+  background-size: cover;
 }
 
 /*img.rounded-circle {
