@@ -14,7 +14,7 @@ function parallax() {
 	// $('parallax--bg').css(.background-position','center'+ (wScroll*0.75)+'px');
 }
 
-// End arallax effect //
+// End parallax effect //
 
 
 
